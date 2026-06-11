@@ -180,3 +180,38 @@ Cognify addresses these challenges through adaptive content delivery, accessibil
 Cognify transforms learning from simply being available to being accessible, adaptive, and inclusive.
 
 By combining AI, accessibility, and personalized learning techniques, Cognify empowers neurodiverse learners to learn effectively, confidently, and independently.
+
+
+
+---
+## 📸 Project Screenshots
+
+### 1. Landing Page
+![Landing Page](screenshots/lamding-page.png)
+
+### 2. About Section
+![About](screenshots/about.png)
+
+### 3. Sign Up
+![Signup](screenshots/signup.png)
+
+### 4. Role Selection
+![Role Selection](screenshots/Role-selection.png)
+
+### 5. Learning Style Selection
+![Learning Style](screenshots/learning-style.png)
+
+### 6. Student Dashboard
+![Student Dashboard](screenshots/main-dashboard.png)
+
+### 7. Practice Reading
+![Practice Reading](screenshots/practice-reading.png)
+
+### 8. Letter Canvas
+![Canvas](screenshots/canvas.png)
+
+### 9. Parent Dashboard
+![Parent Dashboard](screenshots/parent-dashboard.png)
+
+### 10. Teacher Dashboard
+![Teacher Dashboard](screenshots/Teacher-Dashboard.png)
