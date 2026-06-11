@@ -1,90 +1,159 @@
 # Cognify
----------------------------------------------------------------------------------------------------
-## Overview
 
-Cognify is an AI-powered learning platform designed to support students with ADHD, dyslexia, and other learning challenges through adaptive and accessible learning experiences.
+## AI-Powered Adaptive Learning Platform for Neurodiverse Learners
 
-Many students struggle not because they cannot learn, but because traditional educational platforms are not designed for the way they process information. Cognify aims to bridge this gap by creating an inclusive learning environment that adapts to individual cognitive needs.
---------------------------------------------------------------------------------------------------
+Cognify is an AI-powered learning platform designed to support students with ADHD, Dyslexia, and other learning challenges through adaptive, accessible, and personalized learning experiences.
+
+Many students struggle not because they lack intelligence or motivation, but because traditional educational systems are not designed for the way they process information. Cognify bridges this gap by creating an inclusive environment that adapts to individual cognitive needs and learning styles.
+
+---
+
 ## Problem Statement
 
-Traditional learning platforms often rely heavily on text-based content, complex interfaces, and one-size-fits-all teaching methods.
+Traditional learning platforms often rely on text-heavy content, complex interfaces, and one-size-fits-all teaching methods.
 
-Students with ADHD and dyslexia frequently face challenges such as:
+Students with ADHD and Dyslexia frequently face challenges such as:
 
-* Reading-heavy content
 * Information overload
 * Difficulty maintaining focus
-* Lack of personalized learning support
+* Reading-intensive content
 * Limited accessibility features
+* Lack of personalized learning support
 
 Cognify addresses these challenges through adaptive content delivery, accessibility-focused design, and personalized learning pathways.
 
---------------------------------------------------------------------------------------------------
+---
 
 ## Key Features
 
 ### Adaptive Learning Experience
 
-* Personalized content presentation based on student learning needs.
-* Reduced cognitive load through simplified and structured interfaces.
+* Personalized content presentation based on learner needs
+* Reduced cognitive load through simplified interfaces
+* Dynamic content adaptation
 
 ### Dyslexia-Friendly Learning
 
-* Specially designed fonts and text styles to improve readability.
-* Accessibility-focused content presentation.
+* Readability-focused fonts and spacing
+* Warm color themes and accessibility enhancements
+* Improved reading experience
 
-### Student–Teacher–Parent Connectivity
+### ADHD Support
 
-* Enables seamless communication and progress tracking.
-* Keeps all stakeholders informed about student performance.
+* Structured content organization
+* Interactive learning environment
+* Focus-oriented learning modules
 
-### Voice-Based Assessments
+### Voice-Based Reading Assessment
 
-* Students can answer verbally.
-* System evaluates accuracy and identifies mistakes.
+* Speech recognition integration
+* Reading practice with accuracy evaluation
+* Performance tracking and improvement analysis
 
-### Personalized Preparation Modules
+### Letter Canvas
 
-* Focused learning plans based on individual weaknesses.
-* Customized recommendations for improvement.
+* Interactive handwriting practice board
+* Adjustable brush size and colors
+* Motor skill development support
 
-### Learning Difficulty Assessment
+### Student Dashboard
 
-* Assessment tests help identify potential learning difficulties.
-* Supports early intervention and personalized support.
+* Adaptive reader
+* Reading practice modules
+* Progress tracking
+* Session monitoring
 
-### Analytics Dashboard
+### Parent Dashboard
 
-* Graph-based performance tracking.
-* Progress monitoring for both students and teachers.
+* Student progress monitoring
+* Performance analytics
+* Learning activity tracking
 
-### Interactive Learning Games
+### Teacher Dashboard
 
-* Built-in mini-games to maintain engagement.
-* Helps students take productive breaks and improve focus.
+* Classroom management
+* Content uploading
+* Assignment creation
+* Student performance monitoring
+* Parent communication
 
-------------------------------------------------------------------------------------------------
+### Analytics & Progress Tracking
+
+* Reading accuracy statistics
+* Words-per-minute analysis
+* Session history
+* Performance visualization
+
+---
+
+## Screenshots
+
+### Landing Page
+![Landing Page](screenshots/landing-page.png)
+
+### About Project
+![About Project](screenshots/about.png)
+
+### User Registration
+![Sign Up](screenshots/signup.png)
+
+### Role Selection
+![Role Selection](screenshots/Role-selection.png)
+
+### Learning Style Selection
+![Learning Style](screenshots/learning-style.png)
+
+### Main Student Dashboard
+![Dashboard](screenshots/main-dashboard.png)
+
+### Reading Practice
+![Practice Reading](screenshots/practice-reading.png)
+
+### Letter Canvas
+![Canvas](screenshots/canvas.png)
+
+### Parent Dashboard
+![Parent Dashboard](screenshots/parent-dashboard.png)
+
+### Teacher Dashboard
+![Teacher Dashboard](screenshots/Teacher-Dashboard.png)
+---
 
 ## Technologies Used
 
-* HTML
-* CSS
-* JavaScript
-* Python
-* Git & GitHub
+### Frontend
 
---------------------------------------------------------------------------------------------------
+* HTML5
+* CSS3
+* JavaScript
+
+### Backend
+
+* Python
+
+### Tools & Platforms
+
+* Git
+* GitHub
+
+### APIs & Libraries
+
+* Web Speech API
+* Browser Local Storage
+
+---
 
 ## My Contributions
 
 * Frontend Development
-* User Interface Design
-* Accessibility-Oriented Features
-* Testing and Feature Integration
-* Team Collaboration and Project Development
+* UI/UX Design
+* Accessibility-Focused Features
+* Dashboard Development
+* Feature Integration
+* Testing & Debugging
+* Team Collaboration
 
--------------------------------------------------------------------------------------------------
+---
 
 ## Team Members
 
@@ -93,18 +162,21 @@ Cognify addresses these challenges through adaptive content delivery, accessibil
 * Sharan M P
 * Suhas Kattimani
 
-------------------------------------------------------------------------------------------------
+---
 
 ## Future Scope
 
-* AI-driven personalized learning recommendations
+* AI-powered personalized learning recommendations
 * Advanced analytics and performance prediction
 * Speech and language assistance tools
-* Expanded accessibility support
-* Mobile application development
+* Enhanced accessibility features
+* Mobile application support
+* Machine Learning-based cognitive assessment
 
-------------------------------------------------------------------------------------------------
+---
 
 ## Impact
 
-Cognify transforms learning from simply being available to being accessible and adaptive, helping students learn in ways that work best for them.
+Cognify transforms learning from simply being available to being accessible, adaptive, and inclusive.
+
+By combining AI, accessibility, and personalized learning techniques, Cognify empowers neurodiverse learners to learn effectively, confidently, and independently.
