@@ -1,3 +1,5 @@
+![NeuroAdapt Banner](screenshots/landing-page.png)
+
 # Neuro-Adapt
 
 ## AI-Powered Adaptive Learning Platform for Neurodiverse Learners
