@@ -1,10 +1,10 @@
-# neuro-Adapt
+# Neuro-Adapt
 
 ## AI-Powered Adaptive Learning Platform for Neurodiverse Learners
 
 Neuro-adapt is an AI-powered learning platform designed to support students with ADHD, Dyslexia, and other learning challenges through adaptive, accessible, and personalized learning experiences.
 
-Many students struggle not because they lack intelligence or motivation, but because traditional educational systems are not designed for the way they process information. Cognify bridges this gap by creating an inclusive environment that adapts to individual cognitive needs and learning styles.
+Many students struggle not because they lack intelligence or motivation, but because traditional educational systems are not designed for the way they process information. Neuro-adapt bridges this gap by creating an inclusive environment that adapts to individual cognitive needs and learning styles.
 
 ---
 
@@ -20,7 +20,7 @@ Students with ADHD and Dyslexia frequently face challenges such as:
 * Limited accessibility features
 * Lack of personalized learning support
 
-Cognify addresses these challenges through adaptive content delivery, accessibility-focused design, and personalized learning pathways.
+Neuro-Adapt addresses these challenges through adaptive content delivery, accessibility-focused design, and personalized learning pathways.
 
 ---
 
@@ -177,9 +177,9 @@ Cognify addresses these challenges through adaptive content delivery, accessibil
 
 ## Impact
 
-Cognify transforms learning from simply being available to being accessible, adaptive, and inclusive.
+Neuro-Adapt transforms learning from simply being available to being accessible, adaptive, and inclusive.
 
-By combining AI, accessibility, and personalized learning techniques, Cognify empowers neurodiverse learners to learn effectively, confidently, and independently.
+By combining AI, accessibility, and personalized learning techniques, Neuro-Adapt empowers neurodiverse learners to learn effectively, confidently, and independently.
 
 
 
