@@ -1,8 +1,8 @@
-# Cognify
+# neuro-Adapt
 
 ## AI-Powered Adaptive Learning Platform for Neurodiverse Learners
 
-Cognify is an AI-powered learning platform designed to support students with ADHD, Dyslexia, and other learning challenges through adaptive, accessible, and personalized learning experiences.
+Neuro-adapt is an AI-powered learning platform designed to support students with ADHD, Dyslexia, and other learning challenges through adaptive, accessible, and personalized learning experiences.
 
 Many students struggle not because they lack intelligence or motivation, but because traditional educational systems are not designed for the way they process information. Cognify bridges this gap by creating an inclusive environment that adapts to individual cognitive needs and learning styles.
 
